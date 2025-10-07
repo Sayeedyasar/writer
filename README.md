@@ -20,11 +20,7 @@ Bash shell (/bin/bash).
 A text editor like nano or vim (optional, for editing files).
 Basic file system permissions to create and edit files in the working directory.
 
-# Installation
 
-Clone the Repository:git clone https://github.com/yourusername/file-writer-project.git
-cd file-writer-project
-Make the Script Executable:chmod +x main.sh
 
 
 ## Verify Dependencies:
